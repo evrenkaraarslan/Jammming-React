@@ -1,6 +1,8 @@
 
 ***Here you can find deployed version of this project http://evrenkspotify.surge.sh/***
 
+***With this web app you can search musics and save to your spotify account. Enjoy!***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
