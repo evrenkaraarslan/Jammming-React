@@ -1,5 +1,5 @@
 
-***Here you can find deployed version of this project http://evrenkspotify.surge.sh/***
+***Here you can find deployed version of this project http://ekspotify.surge.sh/***
 
 ***With this web app you can search musics and save to your spotify account. Enjoy!***
 
